@@ -1,0 +1,12 @@
+body {
+background-color: gray;
+font-family: Bradley Hand, cursive;
+}
+
+.main-title {
+text-align: center;
+}
+
+.content {
+margin-bottom: 12px;
+}
